@@ -24,6 +24,7 @@ Thumbs.db
 *.log
 
 # sbt
+.bsp/
 target/
 project/target/
 project/project/
